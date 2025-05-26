@@ -1,0 +1,24 @@
+body {background-color: white; color: black; }
+a {color: blue; }
+
+h1 {letter-spacing: 10px; font-style: italic; }
+h1 img {vertical-align: middle; }
+h2 {background-color: #DDDDDD; padding: 5px; }
+
+.czerswiatlo, .zielswiatlo {border-width: 3px; border-style: ridge;
+  padding: 10px; margin-bottom: 10px; background-color: #DDDDDD;
+  width: 50%; }
+.czerswiatlo {color: red; border-color: red; }
+.czerswiatlo em {color: black; }
+.zielswiatlo {color: green; border-color: green; }
+
+dd pre {background-color: yellow; padding: 10px; margin: 2px; }
+dt {color: gray; }
+dt strong {color: black; font-weight: normal; }
+
+.menu {background-color: #DD9; border: 5px outset #DD9; color: black;
+  padding: 4px; }
+.menu a {text-decoration: none; color: maroon; font-weight: bold; }
+.menu a:hover {text-decoration: underline; }
+.menu a:active {text-decoration: underline; color: white; }
+
