@@ -1,6 +1,8 @@
 # Czat w PHP
 Czat, tzn. serwis WWW służący wymianie wiadomości tekstowych między zarejestrowanymi użytkownikami napisany w PHP.
 
+Grafika dymków czatu pochodzi z [OpenClipart](https://openclipart.org/detail/129049/chat).
+
 ## Zrzuty ekranu
 
 ![Strona powitalna](https://github.com/Jan-Mleczko/Czat-PHP/blob/main/zrz_czat/01.png?raw=true)
